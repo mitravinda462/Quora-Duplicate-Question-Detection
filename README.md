@@ -11,4 +11,4 @@ differences and similarities in question phrasing. Out of all the models, XGBoos
 along with Bag of words text representation gave us the highest F1-score of 0.86.
 This comparative analysis is key in enhancing the efficiency of information retrieval and knowledge sharing on question-and-answer platforms, shedding light
 on the strengths and limitations of each model in detecting duplicate questions.
-
+![flow_chart](https://github.com/mitravinda462/Quora-Duplicate-Question-Detection/assets/53876415/db8c41b2-27d1-4f86-8f4e-b8588a5cb1d5)
