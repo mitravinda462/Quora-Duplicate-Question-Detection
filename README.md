@@ -4,7 +4,7 @@ question-and-answer website, where identifying duplicate questions is essential.
 This project delves into using machine learning techniques to tackle this issue
 using models such as Naive Bayes, XGBoost, and SVM and BERT pretrained
 model. The study examines the impact of various text representation techniques
-such as Bag of Words, Word2Vec, TF-IDF (term frequency-inverse document frequency), and BERT embeddings. By leveraging cutting-edge machine learning
+such as Bag of Words, Word2Vec, TF-IDF (term frequency-inverse document frequency), and BERT embeddings. By leveraging cutting-edge machine learning
 models, the study explores the nuances of semantic understanding in text. Text
 preprocessing methods are employed to refine the models’ ability to discern subtle
 differences and similarities in question phrasing. Out of all the models, XGBoost
